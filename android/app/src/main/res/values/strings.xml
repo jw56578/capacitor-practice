@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">captest</string>
+    <string name="title_activity_main">captest</string>
+    <string name="package_name">com.test.cap</string>
+    <string name="fileprovider_authority">com.test.cap.fileprovider</string>
+    <string name="custom_url_scheme">com.test.cap</string>
+</resources>
